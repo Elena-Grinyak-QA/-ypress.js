@@ -14,19 +14,19 @@
 
 1. baseUrl вынесен в переменные конфига
 
-![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-09-23.png)
+![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-30-09.png)
 
 2. Применение хуков beforeEach и afterEach
 
-![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-10-01.png)
+![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-31-01.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
 
-![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-11-17.png)
+![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-31-46.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 
-![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-11-52.png)
+![image](https://raw.githubusercontent.com/Elena-Grinyak-QA/JavaScript-Cypress/refs/heads/main/2025-07-12_14-32-32.png)
 
 
 ## Автор
